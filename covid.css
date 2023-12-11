@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: cornsilk;
+    height: 70px;
+    font-weight: bolder;
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+}
+.container{
+    margin: 20px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+#table{
+    border-collapse: collapse;
+
+}
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
